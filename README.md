@@ -8,7 +8,9 @@ The next step is running this application using the command 'npm run dev'
 
 Features:
     - The applciation features a navigation bar for navigating to different pages within the application. 
+    
     - Individual pages showing Customers and Products within the Database
+    
     - Individual pages with forms for adding a new customer, product, and order for a customer.
 
 1. Customer Pages:
